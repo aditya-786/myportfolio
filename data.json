@@ -3,19 +3,31 @@
     "title": "Blogger | Front-End Developer | Programmer",
     "intro": "Some introduction of yours and it can be as much as large",
     "skills": [{
-            "title": "Skill 1",
-            "rating": "90"
+            "title": "HTML5",
+            "rating": "95"
         },
         {
-            "title": "Skill 2",
+            "title": "CSS3",
+            "rating": "92"
+        },
+        {
+            "title": "JavaScript",
+            "rating": "70"
+        },{
+            "title": "C",
+            "rating": "95"
+        },
+               {
+            "title": "C++",
             "rating": "97"
         },
-        {
-            "title": "Skill 3",
-            "rating": "85"
-        },{
-            "title": "Skill 1",
-            "rating": "90"
+               {
+            "title": "Python",
+            "rating": "80"
+        },
+               {
+            "title": "Java",
+            "rating": "70"
         }
     ],
     "contact": {
